@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5999be892b4d2f4e95417c46b25bae5, type: 3}
+  m_Name: 3021MidTerm
+  m_EditorClassIdentifier: 
+  CourseCode: 3021
+  ThematicType: 2
+  CourseType: ECNG
+  CourseAssignment: Midterms
+  CourseAssignmentCode: 302102
+  Finals: 0
+  EventType: 1
+  hours: 12
+  minutes: 0
+  month: 9
+  date: 4
+  year: 2022
+  reminderDate: 0
+  daysOfWeek: 

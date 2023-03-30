@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SceneTransition">
+    <Position X="3.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAAABmAAA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Transitions\SceneTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassToHomeTransition">
+    <Position X="3.5" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Transitions\ClassToHomeTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

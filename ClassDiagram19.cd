@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Resources">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Resources\Resources.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthUp">
+    <Position X="5" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAAAAAAAAAAgAAAEAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Resources\HealthUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeartContainerUp">
+    <Position X="8.5" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Resources\HeartContainerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coin">
+    <Position X="1.25" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Resources\Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="coinName">
+    <Position X="2" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Resources\Coin.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

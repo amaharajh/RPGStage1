@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Interactable">
+    <Position X="18.5" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Interactable Objects\Interactable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonDoors">
+    <Position X="21.5" Y="5.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CAQQAACAASAAACAAACAgAAAAIEAQBAIAAAAAACAIAAA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Dungeon Doors\DungeonDoors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonBossDoor">
+    <Position X="15.25" Y="5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>CAQQAACAASAAACBAgCAgAAEAAEAQBQIAAAAAACAJAAA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Dungeon Doors\DungeonBossDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DoorType2">
+    <Position X="22.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Dungeon Doors\DungeonDoors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

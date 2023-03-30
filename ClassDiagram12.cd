@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Interactable">
+    <Position X="4.5" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Interactable Objects\Interactable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BedTransition">
+    <Position X="2.5" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEQIAACAAAAAACAAAAAgAAIAAMAAAAAAAAAAAAAmAEA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Transitions\BedTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_scene_shift">
+    <Position X="6.75" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEQIAACAAAAAACAAAAAgAAIAAEAQAAAAAAAAAQAmAEA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Transitions\Object_scene_shift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

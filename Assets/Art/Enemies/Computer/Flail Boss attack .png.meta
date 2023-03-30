@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: ccb0f0689dcb2164fad9f5047ae2d27a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flail Boss attack _0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 640
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51352817, y: 0.26010334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a1b7e65fef6b4fbe4b8f08db418e9
+      internalID: -617612879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 640
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4700361, y: 0.29958966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb452d344d94d9946ba5dcc47b313b8b
+      internalID: -87090437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 640
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4973497, y: 0.30133334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540b5455664d47442910f0eb367669b1
+      internalID: -1395219978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 640
+        width: 46
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5165538, y: 0.26869032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd15b349af87386438b1ba937b2d6fb2
+      internalID: -234263895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 640
+        width: 42
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5238124, y: 0.23397654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8cafcbb912b674e92bde6879610504
+      internalID: 21134915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 640
+        width: 74
+        height: 53
+      alignment: 9
+      pivot: {x: 0.29729894, y: 0.24566075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b520f1378d8134f9de34f15e043c14
+      internalID: 96530313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 448
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47457942, y: 0.27624634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72053b9b62e050e43831e6c26f3d1a08
+      internalID: 1606719108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 441
+        width: 38
+        height: 55
+      alignment: 9
+      pivot: {x: 0.40191972, y: 0.36036766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3858e2eb211eee247b0d250285bd8e1c
+      internalID: 1583678870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 445
+        width: 37
+        height: 53
+      alignment: 9
+      pivot: {x: 0.3973331, y: 0.3050704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7332fba5c635c01459bf7c5cb289376c
+      internalID: 971111741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _9
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 448
+        width: 63
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6580791, y: 0.27532348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a4f2eb987e7124eacbda196e27e7e4
+      internalID: -1198299147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _10
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 448
+        width: 69
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6968455, y: 0.2796063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3de7d1da282d42a02e6f897667a6e
+      internalID: -878261751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _11
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 448
+        width: 66
+        height: 50
+      alignment: 9
+      pivot: {x: 0.67548716, y: 0.2874353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a828d7ec4acde49b85949d7670226a
+      internalID: -198473525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf7456ba1019d4bb8a3291ed32dfe7
+      internalID: -306653989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 256
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54137d41304d55840af55b6348650f0e
+      internalID: -910432522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 253
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5148302, y: 0.28627014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a2eb705b2d08c4696621b110ef3d6a
+      internalID: -945398944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _15
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 256
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5556145, y: 0.28033516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605b75d57cdc6142b4d623bf729efd6
+      internalID: -1684784712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _16
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 239
+        width: 65
+        height: 62
+      alignment: 9
+      pivot: {x: 0.35112023, y: 0.48906094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18698844de51b5a459c6516536e07ef2
+      internalID: 564055954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 248
+        width: 70
+        height: 53
+      alignment: 9
+      pivot: {x: 0.32856968, y: 0.38970602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d86f278c0ca354bb6d6bfa90a2a79b
+      internalID: 1058397740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5577854, y: 0.26635405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e006f901433e24449a0eff2adca9bc0
+      internalID: -585557580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 57
+        width: 36
+        height: 55
+      alignment: 9
+      pivot: {x: 0.60928684, y: 0.35643616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8e805d3d0fe74baa823dd48c80342
+      internalID: 1402119461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 61
+        width: 35
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6000227, y: 0.30129156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73edcfda86754ad44849c805afde022b
+      internalID: -480603747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 64
+        width: 63
+        height: 50
+      alignment: 9
+      pivot: {x: 0.34587362, y: 0.27207032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b7e82e4640be4a8b747ee4090e324
+      internalID: 955600895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _22
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 64
+        width: 68
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3208744, y: 0.27714035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad3cbafd529f294a92e8e557dc5c0b2
+      internalID: 853688959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flail Boss attack _23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 64
+        width: 65
+        height: 50
+      alignment: 9
+      pivot: {x: 0.32788274, y: 0.27537248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca780b57d70400e439c3dbe6f3559545
+      internalID: 377363833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flail Boss attack _15: -1684784712
+      Flail Boss attack _8: 971111741
+      Flail Boss attack _9: -1198299147
+      Flail Boss attack _2: -1395219978
+      Flail Boss attack _19: 1402119461
+      Flail Boss attack _5: 96530313
+      Flail Boss attack _3: -234263895
+      Flail Boss attack _11: -198473525
+      Flail Boss attack _17: 1058397740
+      Flail Boss attack _16: 564055954
+      Flail Boss attack _18: -585557580
+      Flail Boss attack _23: 377363833
+      Flail Boss attack _7: 1583678870
+      Flail Boss attack _14: -945398944
+      Flail Boss attack _20: -480603747
+      Flail Boss attack _21: 955600895
+      Flail Boss attack _0: -617612879
+      Flail Boss attack _12: -306653989
+      Flail Boss attack _4: 21134915
+      Flail Boss attack _10: -878261751
+      Flail Boss attack _13: -910432522
+      Flail Boss attack _1: -87090437
+      Flail Boss attack _22: 853688959
+      Flail Boss attack _6: 1606719108
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

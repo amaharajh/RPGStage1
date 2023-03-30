@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Boss">
+    <Position X="6.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAARIEAAAgAAAJAQAAAhAAAAAQAAAAAAAgAAACEg=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossScript">
+    <Position X="2.25" Y="1.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAgCAAiAABAAAJAAgAAQAAAAQAAAQAQAAAQAEEAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\BossScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BossStateMachine">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAACAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Boss.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BossState">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\BossScript.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

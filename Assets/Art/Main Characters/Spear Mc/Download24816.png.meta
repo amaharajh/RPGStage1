@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: 83f26b8f3040a8b4d83233e5f595edc8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Download24816_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1408
+        width: 54
+        height: 51
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.49019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b227852ff31f6c439d018e9e5e4e95e
+      internalID: 111301070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1408
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35af28d9d8071994eaef2ca672b6daa2
+      internalID: 1598790795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1408
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.49019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911a3a0448ccb14384044ebc9cd5935
+      internalID: -259221893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1408
+        width: 28
+        height: 57
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.4385965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1d65f24ee782419f46b5493ae74d4
+      internalID: -1858232830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1408
+        width: 28
+        height: 62
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.048387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c6d52b1ab5c74ab68bea24753fec7
+      internalID: -44228084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1409
+        width: 28
+        height: 67
+      alignment: 9
+      pivot: {x: 0.53571427, y: -0.04477612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbd4824abc6c949a9f851a289b7119
+      internalID: -84554313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_6
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1408
+        width: 28
+        height: 62
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.048387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85feba7a633a4394b9f5b0bf8fee2cc4
+      internalID: -1353272591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_7
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1408
+        width: 28
+        height: 57
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.4385965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8de114aca74ca40bfedb61ee8df2f0
+      internalID: -2639178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b8432b7aa9f81419dac31261d1e6ae
+      internalID: 1352039013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1216
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000163b2bc35f574d818d66bfeba103b
+      internalID: -1768526411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1216
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b7216ad6436843b6399c412124b3d
+      internalID: 1692666371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1216
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6da9a08ecaeb4c9432755b5e2d8f2
+      internalID: -68548370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_12
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1216
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.877193, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95dfd47af42edf4a9c98e57b447e9c2
+      internalID: 1421696968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_13
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1216
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 1.1403508, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac8045c258d034b9210876844afdcc
+      internalID: 1469462447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_14
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1216
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.877193, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6512db5a10a81340a3a612ebe5a9ca8
+      internalID: -1329348429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_15
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1216
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cca0bbe875cfd4fa4ea978b9cfe4bc
+      internalID: -1816321002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1024
+        width: 57
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cebdbc5e444fbf4aaccd567a63438c5
+      internalID: 648195974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1024
+        width: 54
+        height: 52
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99a17b144387274f9d462958a3b9e9c
+      internalID: -1002871064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_18
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1022
+        width: 42
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5952381, y: 0.46296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfefc0435ff0e747b62253803fd380a
+      internalID: -178665764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_19
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1020
+        width: 30
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4385965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7d9c9f578199148afd59798bccdf11
+      internalID: -1212396865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_20
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1017
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.94827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266142e09824d34ab62c4ed8de1af60
+      internalID: -1410968992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_21
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1012
+        width: 29
+        height: 63
+      alignment: 9
+      pivot: {x: 0.51724136, y: 1.031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee0f600161c1b4e91f121457d5fdc6
+      internalID: 2037102888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_22
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1017
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.94827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5bd3023b667404594906efed281f01
+      internalID: -1346592822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_23
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1020
+        width: 30
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4385965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deabec473b65de43ae8e1b15da89111
+      internalID: -1985287300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 832
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2283ff9341e3b24f8b22bd001756f5d
+      internalID: -166128967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 833
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610ef43e440ffc49a8471686d24112d
+      internalID: -1343789679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 832
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18360e3f2920e64b8f16b0f6996839d
+      internalID: -1222590103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_27
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 832
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469141364db544448965c19f204e0c70
+      internalID: 1775340154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_28
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 832
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.0877193, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00597bf6e3b7bc64da0afda11d04ce6b
+      internalID: 517640542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_29
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 832
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: -0.0877193, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a879752eba4a48a49aaf86b59f2786fb
+      internalID: 1440771701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_30
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 832
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.0877193, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d9a17ebebcabd4793950a5f2404c82
+      internalID: -1563658794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_31
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 832
+        width: 57
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ec76c95d7deb499738030b3dc75e0
+      internalID: -76942593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 640
+        width: 54
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a469e6ee297a442a65a936c2d23bfa
+      internalID: -1601190311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 640
+        width: 55
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722cdff4cda7e5c4b9d87b91c1fd5cf0
+      internalID: -857623300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 640
+        width: 57
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7017544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f36bfe8b1c79479a85fd1a551eebe
+      internalID: 2096860734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 55
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.49019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6c1c9261d672e419706e41a3d74fcc
+      internalID: 120517432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_36
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 640
+        width: 60
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.36764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465978947b9906348a4a637d13fe1306
+      internalID: -1570386414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_37
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 640
+        width: 79
+        height: 67
+      alignment: 9
+      pivot: {x: 0.25316456, y: 0.37313432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97ea7cdab15f7e49a4bc903dd657e69
+      internalID: 2040451888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701f030f5b65c034f913d7fb15499350
+      internalID: -883892316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_39
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 448
+        width: 31
+        height: 51
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f518ba39b35ea488354b438b47792f
+      internalID: 2147044645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_40
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 448
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006852dd6da56284daca04a2519ac66f
+      internalID: 610439234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_41
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 448
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7352941, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98faff612a09b8f46bdb538791b7a407
+      internalID: -1714930528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_42
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 448
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7352941, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e3ae379f1a514b887d6bf9947d8ec
+      internalID: 1870285938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_43
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 448
+        width: 67
+        height: 53
+      alignment: 9
+      pivot: {x: 0.74626863, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d916f31766ad944ea0ef37b642d6889
+      internalID: -912497750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 256
+        width: 54
+        height: 52
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609e38629d624044aea77f2455853cc
+      internalID: 532715729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6, y: 0.48076922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8432684b1215af34eae922d184d4b98d
+      internalID: 614366679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_46
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 256
+        width: 57
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7017544, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02af41b55c635a4a93be0a3facdd148
+      internalID: -342007353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_47
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 256
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.625, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fd3b989fe549c48a28c07a01cf3ea0
+      internalID: 1449530635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_48
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 235
+        width: 84
+        height: 73
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.6164383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419f298366c360d4cbffe18eca58b112
+      internalID: 1980627234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_49
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 236
+        width: 76
+        height: 72
+      alignment: 9
+      pivot: {x: 0.2631579, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67b87052b5d0c47a8aac5c9a75eda0
+      internalID: -1167214593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 64
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4, y: 0.41509435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7828bdb5975da49971127887736e86
+      internalID: -137630156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 31
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.43137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288645512f7cf34480b08d303bbfa3d
+      internalID: -1433811991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 65
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.43396226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f67c6cd32bb13428b870977de54c1c
+      internalID: 967602496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_53
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 64
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: 0.27941176, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a9ec480eb9a54b96273374afc8f89
+      internalID: -1052052388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_54
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 64
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: 0.22058824, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036e525d9292bef42a91b8f3af924151
+      internalID: -678395647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download24816_55
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 64
+        width: 67
+        height: 53
+      alignment: 9
+      pivot: {x: 0.2238806, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1817c5260f5f3d541823f52f7044eb9e
+      internalID: -1137961729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Download24816_44: 532715729
+      Download24816_40: 610439234
+      Download24816_30: -1563658794
+      Download24816_41: -1714930528
+      Download24816_18: -178665764
+      Download24816_50: -137630156
+      Download24816_4: -44228084
+      Download24816_3: -1858232830
+      Download24816_5: -84554313
+      Download24816_46: -342007353
+      Download24816_54: -678395647
+      Download24816_9: -1768526411
+      Download24816_24: -166128967
+      Download24816_28: 517640542
+      Download24816_6: -1353272591
+      Download24816_25: -1343789679
+      Download24816_26: -1222590103
+      Download24816_31: -76942593
+      Download24816_2: -259221893
+      Download24816_14: -1329348429
+      Download24816_55: -1137961729
+      Download24816_20: -1410968992
+      Download24816_17: -1002871064
+      Download24816_39: 2147044645
+      Download24816_0: 111301070
+      Download24816_21: 2037102888
+      Download24816_34: 2096860734
+      Download24816_38: -883892316
+      Download24816_42: 1870285938
+      Download24816_12: 1421696968
+      Download24816_35: 120517432
+      Download24816_13: 1469462447
+      Download24816_11: -68548370
+      Download24816_51: -1433811991
+      Download24816_52: 967602496
+      Download24816_36: -1570386414
+      Download24816_53: -1052052388
+      Download24816_27: 1775340154
+      Download24816_32: -1601190311
+      Download24816_49: -1167214593
+      Download24816_16: 648195974
+      Download24816_1: 1598790795
+      Download24816_19: -1212396865
+      Download24816_15: -1816321002
+      Download24816_22: -1346592822
+      Download24816_48: 1980627234
+      Download24816_45: 614366679
+      Download24816_10: 1692666371
+      Download24816_33: -857623300
+      Download24816_8: 1352039013
+      Download24816_43: -912497750
+      Download24816_7: -2639178
+      Download24816_37: 2040451888
+      Download24816_29: 1440771701
+      Download24816_47: 1449530635
+      Download24816_23: -1985287300
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

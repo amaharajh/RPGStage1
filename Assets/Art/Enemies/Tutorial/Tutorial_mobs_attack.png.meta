@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 10e0b8f6107ca1c40bda657eb2ca7d88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 642
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93de56a960509024d9bc9c9c35a970f5
+      internalID: 1853705217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96485d0034e34e94199cb2fe2c5bf85b
+      internalID: -1225094783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 641
+        width: 38
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6268118, y: 0.50494903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c427607e85b643a239c6f8c9dc44e
+      internalID: 1560667211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 641
+        width: 29
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5240584, y: 0.5193799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b7761735aa78449ba423ca978d90e
+      internalID: -324325024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 641
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.35529378, y: 0.51453525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a156f5300694541babe50ce7c7b9a3
+      internalID: -1419009007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 641
+        width: 62
+        height: 48
+      alignment: 9
+      pivot: {x: 0.25618228, y: 0.5193799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ad41dafd2205b46854ad616eabd0a3
+      internalID: 1581151790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 450
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7461503, y: 0.52092296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c005c0c91067a234eb33026fdad82e22
+      internalID: -1556945610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 450
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6021692, y: 0.5158645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7fdfd4a4b0c2943aa6aeb158a0b910
+      internalID: -134800751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 450
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04480f063f985245a427f2a093ccf3f
+      internalID: 452279025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 450
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.59936166, y: 0.5191949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b274b357071bd745b4e221b112eb2b4
+      internalID: -288610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_10
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 450
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7579822, y: 0.5127964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5f4eb565d4ad4f98f15bf703262ed
+      internalID: -748084365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 450
+        width: 54
+        height: 48
+      alignment: 9
+      pivot: {x: 0.8014346, y: 0.5127964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7815273c56f680a41aa48827353c4c16
+      internalID: -897839352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 258
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707fcbc10d16d449956b3beee2296b5
+      internalID: 1044647797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 258
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5983863, y: 0.5222543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65965b38e117d4faa5d103b2d6c78b
+      internalID: -836286977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 258
+        width: 37
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5698902, y: 0.5058056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91062f8ed002bf3439f6b2aa121d0878
+      internalID: 913613278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 258
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 0.61559534, y: 0.50956434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81d3ec28684983438d20260a7637090
+      internalID: -1508342661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 250
+        width: 41
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3629463, y: 0.58428794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbea45066d66684093b3e8d91c356c9
+      internalID: -404260343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 258
+        width: 57
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2712895, y: 0.5140476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aabe81a444d0c4e88c5f27df1b257e
+      internalID: -1825833882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3111847, y: 0.5179575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebad70d9538ffc40bad01f277274c6d
+      internalID: -856662944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 66
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4080542, y: 0.4875072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd5c996e578cce41aff733d723d2ec5
+      internalID: -798173514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 66
+        width: 25
+        height: 48
+      alignment: 9
+      pivot: {x: 0.48850587, y: 0.49401364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7474713fadeb4144ba663a8659440d7
+      internalID: 919319003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 66
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.40703988, y: 0.50598556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7564746a7dd1c4da1855c9fcd707e0
+      internalID: 1400890182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 66
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.27131, y: 0.50598556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2eeed845ed6043a1f9eba194687db
+      internalID: 88273530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_mobs_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 66
+        width: 54
+        height: 48
+      alignment: 9
+      pivot: {x: 0.24616157, y: 0.51098365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ea9fabb966ce48b963a3a9bb57300
+      internalID: -477153876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tutorial_mobs_attack_1: -1225094783
+      Tutorial_mobs_attack_3: -324325024
+      Tutorial_mobs_attack_7: -134800751
+      Tutorial_mobs_attack_23: -477153876
+      Tutorial_mobs_attack_8: 452279025
+      Tutorial_mobs_attack_2: 1560667211
+      Tutorial_mobs_attack_18: -856662944
+      Tutorial_mobs_attack_17: -1825833882
+      Tutorial_mobs_attack_15: -1508342661
+      Tutorial_mobs_attack_5: 1581151790
+      Tutorial_mobs_attack_6: -1556945610
+      Tutorial_mobs_attack_11: -897839352
+      Tutorial_mobs_attack_16: -404260343
+      Tutorial_mobs_attack_22: 88273530
+      Tutorial_mobs_attack_10: -748084365
+      Tutorial_mobs_attack_12: 1044647797
+      Tutorial_mobs_attack_14: 913613278
+      Tutorial_mobs_attack_19: -798173514
+      Tutorial_mobs_attack_13: -836286977
+      Tutorial_mobs_attack_0: 1853705217
+      Tutorial_mobs_attack_9: -288610
+      Tutorial_mobs_attack_20: 919319003
+      Tutorial_mobs_attack_4: -1419009007
+      Tutorial_mobs_attack_21: 1400890182
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

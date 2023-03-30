@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Interactable">
+    <Position X="18.25" Y="1.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Interactable Objects\Interactable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventDoor">
+    <Position X="14.5" Y="4.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>CAQQAACAASAgACAAgCAgBAEAAEAAAQBIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Interactable Objects\EventDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamDoor">
+    <Position X="18.75" Y="4.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>CAQQAACAASAgACAAgCAgAAEAAEAABQBIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Interactable Objects\ExamDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LectureDoor">
+    <Position X="23.5" Y="4.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>CAQQAACAASAgACAAgCAgAAEAAEAABQBIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Interactable Objects\LectureDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DoorType2">
+    <Position X="15" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Dungeon Doors\DungeonDoors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

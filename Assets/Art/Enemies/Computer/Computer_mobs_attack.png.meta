@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 0b0db6e4dfb6be445a1d4fd5bc41460c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Computer_mobs_attack_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 642
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368761a6cee745f45a0feea1514dc177
+      internalID: -637321513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c0fea8ce30154db5ab55083f83b90
+      internalID: 1715120928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 641
+        width: 38
+        height: 47
+      alignment: 9
+      pivot: {x: 0.63165605, y: 0.49239656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13cb22bacf22ae489c2c8a1977d5e62
+      internalID: 1417931783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 641
+        width: 29
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5123228, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e052f0e979d1504e8f486467fb9df7e
+      internalID: -320991371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 641
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.36157635, y: 0.51366043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba5be3ff4bf35429069070273fb51b
+      internalID: 1650219783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 641
+        width: 62
+        height: 48
+      alignment: 9
+      pivot: {x: 0.25676113, y: 0.52049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295f09b410dd79943bc7dec09b47a794
+      internalID: 1397718293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 450
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.700393, y: 0.515028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c395741073fdd7942b727b5b0550bcdc
+      internalID: 1726542265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 450
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6469983, y: 0.50020236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f20419003952943800e47308259f45
+      internalID: 1378234327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 450
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad766478f62ebea4d921a01d4b3100b7
+      internalID: -2134870848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 450
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6588ea223d42e43889ccf1e4af24c6
+      internalID: -1811037544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_10
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 450
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 0.75, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc977eba3ea3da9489a64ed49621186d
+      internalID: -571190467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 450
+        width: 54
+        height: 48
+      alignment: 9
+      pivot: {x: 0.78, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de227031e72c34e48b3845364af31313
+      internalID: 1394614579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 258
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a186c4af616e8441b7469ee91ea0e3e
+      internalID: -1781047441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 258
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6fd7015bced7a44a9b62be9a4b75b3
+      internalID: 2075130503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 258
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3ce17f3174a65458b1f280bf3d0c2a
+      internalID: 1125624006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 258
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa65c70da8eec4daa91df8a928e66b
+      internalID: -2088120915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 250
+        width: 41
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3, y: 0.555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d835db5caf61ee442bf292d814977dee
+      internalID: 1420890752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 258
+        width: 57
+        height: 48
+      alignment: 9
+      pivot: {x: 0.18, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da69fd4c00f2cc4ea4124f495ea6fcf
+      internalID: 2146626502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6ae1b0af3ef614db997a517c6547bf
+      internalID: -253476881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 66
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b7ecfe3ce30a4593f95b389ebcb6e
+      internalID: -2041120989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 66
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4650fc29097002145a05affeaf050c3b
+      internalID: -974108249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 66
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800bb45a3e91a2a48be8e72e4980ec61
+      internalID: -560505889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 66
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c7a400b8c15d4fa863a7b8726cb2c
+      internalID: 666112462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer_mobs_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 66
+        width: 54
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f16ac46861a8e4f88b3d8ae7ff598c
+      internalID: -378833448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Computer_mobs_attack_23: -378833448
+      Computer_mobs_attack_3: -320991371
+      Computer_mobs_attack_9: -1811037544
+      Computer_mobs_attack_14: 1125624006
+      Computer_mobs_attack_2: 1417931783
+      Computer_mobs_attack_8: -2134870848
+      Computer_mobs_attack_12: -1781047441
+      Computer_mobs_attack_11: 1394614579
+      Computer_mobs_attack_1: 1715120928
+      Computer_mobs_attack_4: 1650219783
+      Computer_mobs_attack_5: 1397718293
+      Computer_mobs_attack_10: -571190467
+      Computer_mobs_attack_6: 1726542265
+      Computer_mobs_attack_0: -637321513
+      Computer_mobs_attack_22: 666112462
+      Computer_mobs_attack_16: 1420890752
+      Computer_mobs_attack_19: -2041120989
+      Computer_mobs_attack_7: 1378234327
+      Computer_mobs_attack_21: -560505889
+      Computer_mobs_attack_20: -974108249
+      Computer_mobs_attack_18: -253476881
+      Computer_mobs_attack_13: 2075130503
+      Computer_mobs_attack_17: 2146626502
+      Computer_mobs_attack_15: -2088120915
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

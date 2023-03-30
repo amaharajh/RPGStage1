@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Enemy">
+    <Position X="4.5" Y="1.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABIEAIEgAAAIAQAAABAAAAAQAAAAAACgAAACEg=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Echo_tutorial">
+    <Position X="0.75" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACAAiAABAAAJACAAAQAAAAQAAAQAQAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Echo_tutorial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrol_Echo_turotial">
+    <Position X="1.25" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAACCAAEAABAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Patrol_Echo_turotial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EnemyState">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAIAAAAAAAAAAAACAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

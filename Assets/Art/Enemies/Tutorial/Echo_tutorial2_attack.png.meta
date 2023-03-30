@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 4609ceb3b8230f3458c064499ddc8432
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 32
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5081928, y: 0.5107023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9971ce91556c374fbab3ce4e8b61405
+      internalID: -88823498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b07f54047a524e8396a4a8a6d424b
+      internalID: -1425653950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 640
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.632484, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fddf4e7bfe9a24a91da9a2bfba7ca1
+      internalID: -1321216803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 640
+        width: 30
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5419535, y: 0.515412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab47891ed9d82c4e96c52b383615d14
+      internalID: 1354236858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 640
+        width: 46
+        height: 49
+      alignment: 9
+      pivot: {x: 0.37961215, y: 0.515412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa425bd37e64cdc4aa07550e78093d1a
+      internalID: 770710952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 640
+        width: 64
+        height: 49
+      alignment: 9
+      pivot: {x: 0.28289604, y: 0.5107023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b5f714f4f77c41ba66f71a15f68cc
+      internalID: -1168906205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 448
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb4481c4803594ab5b937331f4aec8
+      internalID: -364936563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 26
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3177854, y: 0.50000066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6cf0d5f5840864e9634cb936e5a612
+      internalID: -377702311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 448
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.264479, y: 0.50620914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e67349132faa4e9e7e3133527c759
+      internalID: -475154168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 448
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35389978, y: 0.51862735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852033350a6eb3e4aa36eb2f504b4266
+      internalID: -1280600017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_10
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 448
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5683008, y: 0.50620914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ebaf99455f8484690b7c9f2809053a
+      internalID: 309718167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 448
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5804896, y: 0.50620914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca900b965f06e4449fd155355abfa22
+      internalID: -603223526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 256
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52904034, y: 0.5000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d19930d355b054c876eb686e3eea81
+      internalID: 1606475379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6072247, y: 0.49070862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95be848528e7d046aebad6e49c6939a
+      internalID: -1514840532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 256
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5991656, y: 0.49151483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1add3ae07c41454eab1c28df637c1d3
+      internalID: 1957480299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 256
+        width: 36
+        height: 49
+      alignment: 9
+      pivot: {x: 0.60265774, y: 0.49999937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2231e4253b874f9f9647e00db11aa
+      internalID: -949181534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_16
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 250
+        width: 44
+        height: 56
+      alignment: 9
+      pivot: {x: 0.40667307, y: 0.543996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2aed23d592fae47bcc824b6839e840
+      internalID: 2058312420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 256
+        width: 60
+        height: 50
+      alignment: 9
+      pivot: {x: 0.31521404, y: 0.50821227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065a40973a363344e9985bbc26a9755f
+      internalID: -1041445433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19115ee81320f09428013394b24e4374
+      internalID: 1219811149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 64
+        width: 26
+        height: 48
+      alignment: 9
+      pivot: {x: 0.65948254, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee22d91b60c6444eb4fa60ab94d0ca1
+      internalID: 101865512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 64
+        width: 28
+        height: 50
+      alignment: 9
+      pivot: {x: 0.69040245, y: 0.5118469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf670326c6b1d04d90770964b47869d
+      internalID: -1706180877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 64
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6045335, y: 0.50592333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc641e9986c9d24288dc28fa05c51bd
+      internalID: 1078510775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 64
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.41537538, y: 0.5118469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb9ddacc8877f43ae59661ab702172
+      internalID: -100780797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 64
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.38481763, y: 0.50592333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cac7ff59f77d040bd94126a2231630
+      internalID: 310251046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Echo_tutorial2_attack_14: 1957480299
+      Echo_tutorial2_attack_19: 101865512
+      Echo_tutorial2_attack_8: -475154168
+      Echo_tutorial2_attack_22: -100780797
+      Echo_tutorial2_attack_16: 2058312420
+      Echo_tutorial2_attack_3: 1354236858
+      Echo_tutorial2_attack_15: -949181534
+      Echo_tutorial2_attack_20: -1706180877
+      Echo_tutorial2_attack_17: -1041445433
+      Echo_tutorial2_attack_0: -88823498
+      Echo_tutorial2_attack_18: 1219811149
+      Echo_tutorial2_attack_5: -1168906205
+      Echo_tutorial2_attack_21: 1078510775
+      Echo_tutorial2_attack_2: -1321216803
+      Echo_tutorial2_attack_11: -603223526
+      Echo_tutorial2_attack_9: -1280600017
+      Echo_tutorial2_attack_12: 1606475379
+      Echo_tutorial2_attack_1: -1425653950
+      Echo_tutorial2_attack_10: 309718167
+      Echo_tutorial2_attack_7: -377702311
+      Echo_tutorial2_attack_13: -1514840532
+      Echo_tutorial2_attack_4: 770710952
+      Echo_tutorial2_attack_23: 310251046
+      Echo_tutorial2_attack_6: -364936563
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

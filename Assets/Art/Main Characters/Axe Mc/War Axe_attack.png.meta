@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: f5aa5b66f2c982f42ad61307a01973d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: War Axe_attack_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 640
+        width: 46
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4130435, y: 0.5686275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c224d75032e7d914a9bbc39156c06af2
+      internalID: 654216976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 640
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7098671d109a040b83114a57f0a108
+      internalID: 1876417227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 640
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6304348, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5dacd4dc003fc41a0df97f28b15ac4
+      internalID: 515568487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 640
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.5686275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2d0aa72b301b43aa1f21b742c76b3
+      internalID: -506545409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 640
+        width: 54
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fa220e21695bc4aaa6b8fb079a6e8d
+      internalID: -1933363184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 640
+        width: 64
+        height: 55
+      alignment: 9
+      pivot: {x: 0.296875, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa0fb87db3ccbf4f924660b4515b9b3
+      internalID: -1147486797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 448
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f241dffda4d50d46b63bba90e39c6ce
+      internalID: -1602984773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 448
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d75afff5e983eb46879c4c59bb81a80
+      internalID: 1736110213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 448
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.41025642, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8cf459cbc97e4298825eb6164cf12
+      internalID: 1686281874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_9
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 448
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6428572, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca86920a3880c9545bc21e2408564665
+      internalID: -1071859250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 448
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6964286, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85447bca5f87a94199da13800ffb503
+      internalID: 989532501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 448
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6964286, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac42742e4412d84fb4866c3dee27777
+      internalID: 1867375670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 256
+        width: 46
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33337155, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d0c58e04a03934dbf6ebdc6d7f94f1
+      internalID: 39345475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 256
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4841851, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7a614917e71e14784897b93f509098
+      internalID: 521505150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 256
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6086957, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5fe1e2a5252c442b8649a984f2ed05
+      internalID: -1548262810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 256
+        width: 54
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.54901963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbab3ba0480c5546be5826aee694a19
+      internalID: -2141737939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 249
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.6101695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b7e9161eff154897696105f7d77fd
+      internalID: 555313870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 253
+        width: 65
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2923077, y: 0.59999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4957d37f2e9ee14bba2416852ffc9f7
+      internalID: -1097051846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 64
+        width: 45
+        height: 53
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0781bf93067c73c48836eb334b2f8d34
+      internalID: 2063092364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 31
+        height: 51
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.54901963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127cefa9974c46e48a54c3e46cad579d
+      internalID: -1906450374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 64
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b6e4f5d782ec4685373a1bb7ffcc8
+      internalID: 2005073150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_21
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 64
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.37500003, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff9beeebde81614895e86fbdf743309
+      internalID: -805528427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 64
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.3214286, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de9d5c2e7cd0d54ca60fc8959df29d3
+      internalID: -125687415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: War Axe_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 64
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.33928573, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8975c6eeeb5eb74c8150a9bf4b41e33
+      internalID: -1950352469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      War Axe_attack_3: -506545409
+      War Axe_attack_18: 2063092364
+      War Axe_attack_23: -1950352469
+      War Axe_attack_13: 521505150
+      War Axe_attack_16: 555313870
+      War Axe_attack_1: 1876417227
+      War Axe_attack_22: -125687415
+      War Axe_attack_6: -1602984773
+      War Axe_attack_5: -1147486797
+      War Axe_attack_0: 654216976
+      War Axe_attack_7: 1736110213
+      War Axe_attack_4: -1933363184
+      War Axe_attack_2: 515568487
+      War Axe_attack_10: 989532501
+      War Axe_attack_12: 39345475
+      War Axe_attack_11: 1867375670
+      War Axe_attack_9: -1071859250
+      War Axe_attack_21: -805528427
+      War Axe_attack_19: -1906450374
+      War Axe_attack_17: -1097051846
+      War Axe_attack_15: -2141737939
+      War Axe_attack_20: 2005073150
+      War Axe_attack_8: 1686281874
+      War Axe_attack_14: -1548262810
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

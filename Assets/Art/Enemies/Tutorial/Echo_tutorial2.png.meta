@@ -1,0 +1,4105 @@
+fileFormatVersion: 2
+guid: 32583ba20673cfa4fbf79592d9e7d2bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Echo_tutorial2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1316
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8b94479c0322640ab8f763b178c74c
+      internalID: 383249443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1316
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5ec89eb210d8043b7be38936696af8
+      internalID: -1071197543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1316
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eafafae52cc584389604cbbb7aaae9
+      internalID: -1935475665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1316
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a383ca1fdf8174cb8abee92568fda2
+      internalID: -1288858755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1316
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0a1a798f8efc40a5a202fe5e6848b
+      internalID: -532048957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1316
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08624469aad786746b30e4da24bd67a9
+      internalID: 1897795014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1316
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf6a66ecee6e94ca552037db87f2d9
+      internalID: -642966137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1316
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1581679190a864c9d31107608a08db
+      internalID: -1289542757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a0c09bbac2dc46998d683fc6e1e24
+      internalID: 1773196486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edf6794c9312404686f2bd31aa96e56
+      internalID: -1955531912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25a6ce48e84fce469e60f3e1e68263a
+      internalID: -353223772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ced7a25868fb848bfa1a26ff56587e
+      internalID: 1111811312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbecd56de6bc7744bb2f694f0b7d7eb
+      internalID: -972049622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b667dc4b7607e2468f8dfefa9d25893
+      internalID: 2067826600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebd8478787ef8e41ad6331f3e23ce46
+      internalID: 1331639684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0891babef0772be469726a042ae3a434
+      internalID: -775977101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82c12368da6c0f4ea1836dbcb14182b
+      internalID: -1978218268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4673ba089f811224aa52ba01fa94c79a
+      internalID: 1546956776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b043efd97ab4f43870e3d37cd8ccea
+      internalID: 584685936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69110652e30006f41bd7cd2178f89c49
+      internalID: 1176640346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f443baf386bab429c7910fdae7b477
+      internalID: -893062937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca7a5b6ae26cb4da8b077b580cd262
+      internalID: 631645618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2bb46b67f83648bb3a54339399462
+      internalID: 1408384518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397a0a8bfe99ee458642a5dab6115f1
+      internalID: 1955476553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429001d802f2335439fd744840f1b68d
+      internalID: -354911729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1124
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df35d33e4806b44ac5244b618804c0
+      internalID: 2109064734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1124
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d340dd6fec032a418b41e280cdac976
+      internalID: 2119568827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1124
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327d86b1bc9a4a045a5577ee574a4d2d
+      internalID: -1641183600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1124
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba805d74fbafd2b42afea784082ffaf8
+      internalID: -566921526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1124
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e198f257713de4b99c2d69ad05b82d
+      internalID: -1596861304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1124
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acab70e589c20249b5762c1ba671136
+      internalID: -143022125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1525a52dbeee46b4e877d04807b77e0c
+      internalID: 896721600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1060
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea530238e777ce40bc3f4fa760848f6
+      internalID: 1859542750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1060
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d360a93e0008f43bf02aa4f290b8f1
+      internalID: -1798558126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1060
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c01720d942db444e9c5b6159b9a8c02
+      internalID: 1950525331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1060
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2626393cb940671499d5e6553056e789
+      internalID: 822167911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1060
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb5a253ff24e7a44925c7c57365921b
+      internalID: 450494752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1060
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fafae92a765b4049b7258e39a580d83
+      internalID: -1616358121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1060
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229b3411fb7fea043a289c9d2f1ea83d
+      internalID: 518900488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d2b5c5fc4936645a1c3481b8d904c7
+      internalID: -496286967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 996
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2103789bbd0da40a2f89450114718f
+      internalID: -1265401977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 996
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49c2ee2ebef0f4d9dd51094883cdf1
+      internalID: 613212783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 996
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6883e25a3db0c4d8c841cace164a46
+      internalID: -1682247954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 996
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa2c2e9f45bca44bb3ede8987ace919
+      internalID: 1397977074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 996
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59bdef897c63b47b455c6392a7b4ea
+      internalID: -522298485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 996
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc6e8a033b24894cba824332026994a
+      internalID: -83044009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 996
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b43d60dca0c5814cb90965884d725e2
+      internalID: -1565584579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d56906ba8ada744c87756ef6df85500
+      internalID: -1176073750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9471e9a1f85a394cb2c93eef58fa8d6
+      internalID: 2007748448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbbe50096fc47840adecec334b89cfa
+      internalID: -1922468706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1051fa2fecb378f4085f8d415a35711c
+      internalID: -1655159010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2573768f846fb0648a7c2e2573c03490
+      internalID: 1000513309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc9b5cddfe00b4abe577911bf10755
+      internalID: 816220452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d427090af06d498de63005642b7f0
+      internalID: 1629828860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418598d358b55f740a72e2f951838562
+      internalID: -506688676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd4290abebd2d34283536098acb6ec8
+      internalID: -482830792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 868
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b211a5dee0c26d4bae483b0eae6ca2b
+      internalID: 443316253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 868
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed59ca2b604d9e4c9399dd3b3a71db0
+      internalID: -125488266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 868
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2ac55e87d9da4bafb39ac134d9eac
+      internalID: 801139775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 868
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22561ed4cf655f247a98eef0fab16ce2
+      internalID: -1702131142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 868
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2852e5767c674f8dd5adb0babd266
+      internalID: -239944771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 868
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd3baf75a9690645a00b4ea34cf74b7
+      internalID: 1778851580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 868
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4702f301447da64cb074a10555fde46
+      internalID: -1570388357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b09b20ebecbe24c97710c60711f9c5
+      internalID: 1958128264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bc1b5c594c45949941d12cc6da2737
+      internalID: 157879567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ebd479f2e60e24daced04c57ecfc6a
+      internalID: -1468915909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207993bc813833b45b6f639aa5e78545
+      internalID: -856686791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e7afd9bfd5a2429b137dab566f7a4
+      internalID: -1733427112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56cd26679e853744b88897253228e22
+      internalID: 1463949173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60e5d9d89e4624db0d2e1b3238eb51
+      internalID: 1156180358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d385c49f42ec542b21b97ed62acb0e
+      internalID: 296104982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04791bd534645be44ac58c9e92a761dd
+      internalID: 1856229006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe1837e52bb40d49b00726eecc75819
+      internalID: 2014065963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1481e239472da34998511e7f514ba9a
+      internalID: -1068649273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e65201cec212148967f2401e495ebe
+      internalID: 192828916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c700d86030d234ca33b12f6d3b6ce3
+      internalID: 1046636286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a696837ce8d744a8b833887d7226c
+      internalID: 735237536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e5c70103e19604aa86c05f2949962e
+      internalID: 401997015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e0cea1b6c166047a75208520fa426f
+      internalID: -494220466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c806eaf83c00e645b177692d949de63
+      internalID: 1197631646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 740
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b193075bc4ede48830545969233ab4
+      internalID: 1879369064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a27d8d6f3b77948a229a2bd8f58b2d
+      internalID: -1945885342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f27aff2ee0aba42a8491f2d1ae3e2c
+      internalID: 1787619358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6fd27dd1d9ba4492f7cdb681bde0a
+      internalID: -1089054497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a1399771a1cfa4a998a918c1264283
+      internalID: 809315502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00744f1ab917f414a9673e6d636b127b
+      internalID: 1538503607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cdafe70f57f454a98c69c141a316a7
+      internalID: -2071436617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891d7d3675b8994088e7eaf2a0626b2
+      internalID: 646030553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af726b50a8c723478bbcfa74de5a55f
+      internalID: -894085928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 676
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8832ebe3bbe1b342bc1f3ef38318d0c
+      internalID: 1775056281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c378947eabed52b4a87d3800a763ebce
+      internalID: -584672162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac663bf12b3cf34db66b21ebd6d1205
+      internalID: 503138095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4841839e5d8654f9f311b6b25fc0da
+      internalID: 274621901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a401818bf9dc42b597b1df2ac2c8d
+      internalID: -1248857542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016c97ccfe287e54ab375c86412d36be
+      internalID: 1735707105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c08741044dc5548a914049a4a074d1
+      internalID: 436771424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d047b8d83216a3498f2f946d2a53c31
+      internalID: -1062848232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9608de977271746aab6ff8d52050a5
+      internalID: -1661693069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 612
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae41f60c37da60448f34ef52c584fef
+      internalID: -337855023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a0760a61c627b4fbbdabc98450df12
+      internalID: 274401502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deed4d76cbb6aa4c89dab5ead37da1c
+      internalID: 827169400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c524ccf92b9b614c9e1f3b6ee3fe1d7
+      internalID: -1793477965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dbf40f1f1023e489dcef05f4c3597b
+      internalID: -2121989588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3911bb71654378841b021ca22d086abf
+      internalID: 2032272574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b3c2f36dd491f4993f24121a612825
+      internalID: -936254494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9120ead0de044095018b794a3a03f
+      internalID: -2120014314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 484
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b32e7e2821daa4090aa282dc74f708
+      internalID: 2061887780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 484
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457b30045d709854082f20ba45e16b69
+      internalID: -613302675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 484
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f53a30bf729244e8cb149d11b29fe1
+      internalID: 65621933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_109
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 484
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268969f927c4f948bdb63edbedf0255
+      internalID: 1033398018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 484
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5ac0f7d14f2d54b8df63fd1d1a519d
+      internalID: 242994433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739ed41d5a888d41aaafee745d8af99
+      internalID: -143870604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92606a0f700680142b49515319800978
+      internalID: 404408681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da33c6ac1fb9b234b9d7d2d731bf628d
+      internalID: 1339518324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d29fb6486dd0545a653fc6d42c53d6
+      internalID: 1965723913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88ae4b472b32f4b87e041a48cc904f
+      internalID: -797947279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f748029a6fea214a951559ab3285b69
+      internalID: -718755267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019f372a5b6c83e4980350ccccd87421
+      internalID: 481304772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72d0849ab0d0b4fbe93ca8367b7ad6
+      internalID: -1397218899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec4b52c0c05fc44a20a5375b9ac75f
+      internalID: -1113739144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e86a9a6a1aa5c74280dd56bd2feb109
+      internalID: -1246121070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5f77b4f0195da4eaf936531647aa08
+      internalID: -2100388213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3497cdb004e394c860ca025b91fd5c
+      internalID: 133579345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1040e99ec2157745a3fae5820de0d9d
+      internalID: 910499694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8766cc901f1402d43ac874f8386b6cab
+      internalID: -638029315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ddebca3c521049af74b43082bef9d
+      internalID: 448001500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5a1ff35ab04f04d8cfb6d9385e53c2
+      internalID: 978926821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ed72f944b90d4c9f14c4030520bf0
+      internalID: 362048244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d5ec16c6f9b9542ac0b817e04119c3
+      internalID: 1279493962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a724ddf3d0b6964498aceff6f6d4337b
+      internalID: -828614243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e0e369ece20947a5b1829438b06ec
+      internalID: 1794337633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_131
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5205e0ce5039c2c438a6aa37b3d39743
+      internalID: 1267120144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fa478f7ebe3fe439d20d319bd704ee
+      internalID: 882456949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b141b401e8e36489976c1c713cca4d
+      internalID: -101017919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_134
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef32f461c4b5ee4e97ce9eec02c5a3c
+      internalID: -1774011421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93268d959942c954c833be47dce20704
+      internalID: 490668173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a38eecaa18514498de37e02a5d3720
+      internalID: -892797922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925d058c00f99274c85f49bae2615277
+      internalID: -1766010793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f63dc4f3206773499f3cbb840445194
+      internalID: 678668695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815c0148c1d2a1c49ae66bbcc03d2829
+      internalID: -695756075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c737a65f699b4b808c6f6e32830f2
+      internalID: -1940737287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf8af348af881f4dbc75ed2a344b12b
+      internalID: -1033985384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc52ff2fceb8b1a48a8198d1c2f742e5
+      internalID: 1612078585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389fcbedc9169f4429456fa796f37f16
+      internalID: 11367520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f73e995a93ada45958e5e223990a26
+      internalID: 1730739927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_145
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce6668e2544b4f4f9382d2229adcef7
+      internalID: -1876573137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_146
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9fcdc64d119264b86d58635f371f70
+      internalID: 34173435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_147
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445d3922f9744b40bafca1a1bfe2f2f
+      internalID: -2139812590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_148
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b222a6ff3d086549b3cadbec1e66648
+      internalID: -1733219615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abe411a7f2b5274289a0d58133344f6
+      internalID: 500703197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_150
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f602a20f4c61948ba245ea3a5e5459
+      internalID: 1669140525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf93730900dad45bb6fece2950450c
+      internalID: -2114403617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f5779115d9c6a4e9bfbc43d87e0446
+      internalID: 1866259349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac45a2f517c594bb7eb4e55778b702
+      internalID: 82126118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01409917a4335b24ca501f4158c7b362
+      internalID: -1127273501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_155
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8d2246fa9314044bb2489dfe0adfcc
+      internalID: -114156100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_156
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30acf4c725a064c84b0584fb4db932
+      internalID: -2032604556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_157
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614bac41dec6a94a869ba77c54a55bd
+      internalID: 20795963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_158
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76977e884c77ead49af10e54d13b9cb3
+      internalID: -945959793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4881e8188b432124da6262db040af908
+      internalID: -1330430019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_160
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909b8dfb170bbe24d958eea54932f201
+      internalID: 461120769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_161
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b90434ece391b46a2b5ffd9b902f9d
+      internalID: -1565534678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849012fa9075b64ebe5fcf09649806d
+      internalID: 1086050684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deee268d3a6669b428c91a9e826d6de7
+      internalID: 37120520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8636802957b5f4ea6642eb9ff06abf
+      internalID: -128517231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54f416eacf1e0245b8223b598bdb5cd
+      internalID: -1256533475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6b28650c245443bd5ebd37ea642b6
+      internalID: -2098442085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_167
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d15acc79537c4487f93e328512ef3
+      internalID: -1502444903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b804a18ec7e9f4798b2f5829a560bb
+      internalID: -1750199881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_169
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00284e1743e761849b8593c152573f48
+      internalID: 627822044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b795b254dedae542b515cd5a57b764e
+      internalID: -391824066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_171
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd1bf07170bf9e439440d620a861e8d
+      internalID: -388431297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_172
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d6a04bfffb7f44b58d50d1104e866
+      internalID: 261456207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_173
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8ead973b70164db155751c3537cd7
+      internalID: -137689130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_174
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25383b7528058ba4582c9fb8e93dcf94
+      internalID: 1908705207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffcec8d1edd31141ac4538b1c9eff39
+      internalID: 1081586408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c84f6675773e54c918a415be96c58e
+      internalID: 674063324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5c741b8ab2804f92f2a8b8cdf814c
+      internalID: -930225867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b64f5e5abb7942b0ad538e9375fc2
+      internalID: -2011867037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_179
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 36
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5549ca514302a1c48b18be3f21625bcd
+      internalID: 1431266903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Echo_tutorial2_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 36
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05926d32045c9548a42331e952b3377
+      internalID: 1277487173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Echo_tutorial2_132: 882456949
+      Echo_tutorial2_102: -2121989588
+      Echo_tutorial2_129: -828614243
+      Echo_tutorial2_155: -114156100
+      Echo_tutorial2_134: -1774011421
+      Echo_tutorial2_58: 801139775
+      Echo_tutorial2_108: 65621933
+      Echo_tutorial2_166: -2098442085
+      Echo_tutorial2_18: 584685936
+      Echo_tutorial2_11: 1111811312
+      Echo_tutorial2_121: -2100388213
+      Echo_tutorial2_110: 242994433
+      Echo_tutorial2_24: -354911729
+      Echo_tutorial2_65: -1468915909
+      Echo_tutorial2_19: 1176640346
+      Echo_tutorial2_135: 490668173
+      Echo_tutorial2_127: 362048244
+      Echo_tutorial2_55: -482830792
+      Echo_tutorial2_165: -1256533475
+      Echo_tutorial2_131: 1267120144
+      Echo_tutorial2_53: 1629828860
+      Echo_tutorial2_51: 1000513309
+      Echo_tutorial2_72: 2014065963
+      Echo_tutorial2_15: -775977101
+      Echo_tutorial2_31: 896721600
+      Echo_tutorial2_178: -2011867037
+      Echo_tutorial2_130: 1794337633
+      Echo_tutorial2_93: -1248857542
+      Echo_tutorial2_2: -1935475665
+      Echo_tutorial2_90: -584672162
+      Echo_tutorial2_142: 1612078585
+      Echo_tutorial2_57: -125488266
+      Echo_tutorial2_36: 450494752
+      Echo_tutorial2_149: 500703197
+      Echo_tutorial2_124: -638029315
+      Echo_tutorial2_111: -143870604
+      Echo_tutorial2_77: 401997015
+      Echo_tutorial2_160: 461120769
+      Echo_tutorial2_151: -2114403617
+      Echo_tutorial2_172: 261456207
+      Echo_tutorial2_46: -1565584579
+      Echo_tutorial2_88: -894085928
+      Echo_tutorial2_139: -695756075
+      Echo_tutorial2_119: -1113739144
+      Echo_tutorial2_34: 1950525331
+      Echo_tutorial2_97: -1661693069
+      Echo_tutorial2_73: -1068649273
+      Echo_tutorial2_48: 2007748448
+      Echo_tutorial2_40: -1265401977
+      Echo_tutorial2_96: -1062848232
+      Echo_tutorial2_161: -1565534678
+      Echo_tutorial2_133: -101017919
+      Echo_tutorial2_104: -936254494
+      Echo_tutorial2_125: 448001500
+      Echo_tutorial2_30: -143022125
+      Echo_tutorial2_27: -1641183600
+      Echo_tutorial2_75: 1046636286
+      Echo_tutorial2_154: -1127273501
+      Echo_tutorial2_112: 404408681
+      Echo_tutorial2_35: 822167911
+      Echo_tutorial2_59: -1702131142
+      Echo_tutorial2_144: 1730739927
+      Echo_tutorial2_138: 678668695
+      Echo_tutorial2_148: -1733219615
+      Echo_tutorial2_158: -945959793
+      Echo_tutorial2_44: -522298485
+      Echo_tutorial2_159: -1330430019
+      Echo_tutorial2_74: 192828916
+      Echo_tutorial2_52: 816220452
+      Echo_tutorial2_105: -2120014314
+      Echo_tutorial2_175: 1081586408
+      Echo_tutorial2_147: -2139812590
+      Echo_tutorial2_152: 1866259349
+      Echo_tutorial2_101: -1793477965
+      Echo_tutorial2_38: 518900488
+      Echo_tutorial2_16: -1978218268
+      Echo_tutorial2_63: 1958128264
+      Echo_tutorial2_78: -494220466
+      Echo_tutorial2_174: 1908705207
+      Echo_tutorial2_92: 274621901
+      Echo_tutorial2_71: 1856229006
+      Echo_tutorial2_87: 646030553
+      Echo_tutorial2_79: 1197631646
+      Echo_tutorial2_163: 37120520
+      Echo_tutorial2_4: -532048957
+      Echo_tutorial2_146: 34173435
+      Echo_tutorial2_179: 1431266903
+      Echo_tutorial2_21: 631645618
+      Echo_tutorial2_33: -1798558126
+      Echo_tutorial2_126: 978926821
+      Echo_tutorial2_3: -1288858755
+      Echo_tutorial2_153: 82126118
+      Echo_tutorial2_81: -1945885342
+      Echo_tutorial2_54: -506688676
+      Echo_tutorial2_37: -1616358121
+      Echo_tutorial2_20: -893062937
+      Echo_tutorial2_32: 1859542750
+      Echo_tutorial2_49: -1922468706
+      Echo_tutorial2_115: -797947279
+      Echo_tutorial2_107: -613302675
+      Echo_tutorial2_176: 674063324
+      Echo_tutorial2_167: -1502444903
+      Echo_tutorial2_25: 2109064734
+      Echo_tutorial2_42: -1682247954
+      Echo_tutorial2_164: -128517231
+      Echo_tutorial2_76: 735237536
+      Echo_tutorial2_117: 481304772
+      Echo_tutorial2_7: -1289542757
+      Echo_tutorial2_62: -1570388357
+      Echo_tutorial2_85: 1538503607
+      Echo_tutorial2_68: 1463949173
+      Echo_tutorial2_70: 296104982
+      Echo_tutorial2_145: -1876573137
+      Echo_tutorial2_41: 613212783
+      Echo_tutorial2_169: 627822044
+      Echo_tutorial2_69: 1156180358
+      Echo_tutorial2_12: -972049622
+      Echo_tutorial2_5: 1897795014
+      Echo_tutorial2_66: -856686791
+      Echo_tutorial2_128: 1279493962
+      Echo_tutorial2_91: 503138095
+      Echo_tutorial2_14: 1331639684
+      Echo_tutorial2_98: -337855023
+      Echo_tutorial2_28: -566921526
+      Echo_tutorial2_47: -1176073750
+      Echo_tutorial2_156: -2032604556
+      Echo_tutorial2_114: 1965723913
+      Echo_tutorial2_141: -1033985384
+      Echo_tutorial2_157: 20795963
+      Echo_tutorial2_123: 910499694
+      Echo_tutorial2_177: -930225867
+      Echo_tutorial2_84: 809315502
+      Echo_tutorial2_100: 827169400
+      Echo_tutorial2_39: -496286967
+      Echo_tutorial2_137: -1766010793
+      Echo_tutorial2_180: 1277487173
+      Echo_tutorial2_89: 1775056281
+      Echo_tutorial2_83: -1089054497
+      Echo_tutorial2_67: -1733427112
+      Echo_tutorial2_150: 1669140525
+      Echo_tutorial2_171: -388431297
+      Echo_tutorial2_94: 1735707105
+      Echo_tutorial2_22: 1408384518
+      Echo_tutorial2_95: 436771424
+      Echo_tutorial2_26: 2119568827
+      Echo_tutorial2_162: 1086050684
+      Echo_tutorial2_109: 1033398018
+      Echo_tutorial2_29: -1596861304
+      Echo_tutorial2_64: 157879567
+      Echo_tutorial2_1: -1071197543
+      Echo_tutorial2_9: -1955531912
+      Echo_tutorial2_43: 1397977074
+      Echo_tutorial2_86: -2071436617
+      Echo_tutorial2_60: -239944771
+      Echo_tutorial2_140: -1940737287
+      Echo_tutorial2_80: 1879369064
+      Echo_tutorial2_120: -1246121070
+      Echo_tutorial2_6: -642966137
+      Echo_tutorial2_56: 443316253
+      Echo_tutorial2_8: 1773196486
+      Echo_tutorial2_23: 1955476553
+      Echo_tutorial2_118: -1397218899
+      Echo_tutorial2_0: 383249443
+      Echo_tutorial2_99: 274401502
+      Echo_tutorial2_143: 11367520
+      Echo_tutorial2_13: 2067826600
+      Echo_tutorial2_82: 1787619358
+      Echo_tutorial2_103: 2032272574
+      Echo_tutorial2_122: 133579345
+      Echo_tutorial2_173: -137689130
+      Echo_tutorial2_168: -1750199881
+      Echo_tutorial2_10: -353223772
+      Echo_tutorial2_17: 1546956776
+      Echo_tutorial2_61: 1778851580
+      Echo_tutorial2_170: -391824066
+      Echo_tutorial2_116: -718755267
+      Echo_tutorial2_136: -892797922
+      Echo_tutorial2_113: 1339518324
+      Echo_tutorial2_50: -1655159010
+      Echo_tutorial2_45: -83044009
+      Echo_tutorial2_106: 2061887780
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

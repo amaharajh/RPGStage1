@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Interactable">
+    <Position X="28.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Object Scripts\Interactable Objects\Interactable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BedTransition">
+    <Position X="24.75" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEQIAACAAAAAACAAAAAgAAIAAMAAAAAAAAAAAAAmAEA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Transitions\BedTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_scene_shift">
+    <Position X="31" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEQIAACAAAAAACAAAAAgAAIAAEAQAAAAAAAAAQAmAEA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Transitions\Object_scene_shift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneTransition">
+    <Position X="18.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAAABmAAA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Transitions\SceneTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassToHomeTransition">
+    <Position X="18.5" Y="4.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Room Mechanic Scripts\Transitions\ClassToHomeTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

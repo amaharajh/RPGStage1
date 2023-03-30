@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: ad10e4a81793f0b4f9913fe46171036f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 640
+        width: 48
+        height: 45
+      alignment: 9
+      pivot: {x: 0.44225264, y: 0.27640244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ed1ab88bbae3489758996ae323a64
+      internalID: 789986187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 640
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5155206, y: 0.33332685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eb3d796684d1d40a0cf1caa9e839f5
+      internalID: -2030412128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 640
+        width: 50
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5427771, y: 0.34126422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c30d2186ffe16499480d897773e4e6
+      internalID: 1238314036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 640
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.50775826, y: 0.3137492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3defef03142ade64cb310329e48ad431
+      internalID: -635740140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 640
+        width: 54
+        height: 57
+      alignment: 9
+      pivot: {x: 0.47413126, y: 0.26259574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a74bad94dfaf5340bb991e4254f132b
+      internalID: 1137849750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 640
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.32460472, y: 0.24966708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128514950f7610f479f1bb2c22546655
+      internalID: 496555380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 448
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44732428, y: 0.29048157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a860fa358e584c4798084e45645c444
+      internalID: -1622115956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 448
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.42513567, y: 0.26696268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1162556d213e547b181a9254f4181f
+      internalID: 416723952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 448
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4214681, y: 0.2969873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a1c8e357ff0b048ac7f61f16760a74
+      internalID: -450765235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_9
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 448
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: 0.631998, y: 0.27949646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186698d8b7104c4aa19ed0167623f12
+      internalID: 1789571736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 448
+        width: 62
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6394043, y: 0.26048768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8c7f9610ed0ac4c8dd0603710b4856
+      internalID: 335254391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 448
+        width: 62
+        height: 50
+      alignment: 9
+      pivot: {x: 0.643978, y: 0.2681604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f00c4b130287e0458333eeeba67bb76
+      internalID: 225491746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 52
+        height: 45
+      alignment: 9
+      pivot: {x: 0.3940387, y: 0.33644003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc2ad7edabf7c4fa1dd99ef80a3ff9
+      internalID: -576392949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 256
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.33644003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f3a8a4b5531f47b8d20261a89d945
+      internalID: -2104494010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 256
+        width: 51
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5682361, y: 0.30557677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71362643cccf9d346a999b010e9b99b8
+      internalID: 51968281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 256
+        width: 54
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5597184, y: 0.3137984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10204fa8db35dcc4c8e4e157ee82304d
+      internalID: -1788134878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 249
+        width: 66
+        height: 52
+      alignment: 9
+      pivot: {x: 0.35870177, y: 0.42130807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce62359ae2ccde4bbc9439f54fb2709
+      internalID: -681295064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 253
+        width: 69
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33659208, y: 0.37566504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95339220ea8ead042b41775fd4bb95e7
+      internalID: 2092740148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 64
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5671921, y: 0.29621688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe272232d965326419275316db0c935d
+      internalID: 1841679222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.56188387, y: 0.26673475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9a9e9a5899c44f8d15ad73132ccb9
+      internalID: -1898539341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 64
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5808458, y: 0.26323137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60a5122148fa54ebe44953bb02c36a
+      internalID: -751206801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 64
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: 0.36578473, y: 0.27944002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e96179a1f582264298c6ca25a78acb4
+      internalID: 880611816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_22
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 64
+        width: 61
+        height: 50
+      alignment: 9
+      pivot: {x: 0.33935848, y: 0.28614792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395abdd72c6b49e418da4168052893af
+      internalID: 904794016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarAxe Boss Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 64
+        width: 61
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35419402, y: 0.29172716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e877da0d0ab04ab4fb9ff84700174
+      internalID: 1588432662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WarAxe Boss Attack_15: -1788134878
+      WarAxe Boss Attack_3: -635740140
+      WarAxe Boss Attack_20: -751206801
+      WarAxe Boss Attack_8: -450765235
+      WarAxe Boss Attack_16: -681295064
+      WarAxe Boss Attack_19: -1898539341
+      WarAxe Boss Attack_13: -2104494010
+      WarAxe Boss Attack_5: 496555380
+      WarAxe Boss Attack_1: -2030412128
+      WarAxe Boss Attack_21: 880611816
+      WarAxe Boss Attack_17: 2092740148
+      WarAxe Boss Attack_2: 1238314036
+      WarAxe Boss Attack_4: 1137849750
+      WarAxe Boss Attack_18: 1841679222
+      WarAxe Boss Attack_12: -576392949
+      WarAxe Boss Attack_9: 1789571736
+      WarAxe Boss Attack_6: -1622115956
+      WarAxe Boss Attack_14: 51968281
+      WarAxe Boss Attack_0: 789986187
+      WarAxe Boss Attack_7: 416723952
+      WarAxe Boss Attack_10: 335254391
+      WarAxe Boss Attack_11: 225491746
+      WarAxe Boss Attack_23: 1588432662
+      WarAxe Boss Attack_22: 904794016
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

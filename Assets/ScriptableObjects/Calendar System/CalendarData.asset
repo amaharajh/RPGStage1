@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4586cd83f07f4464f867077c819ea6ac, type: 3}
+  m_Name: CalendarData
+  m_EditorClassIdentifier: 
+  mm: 29
+  hh: 8
+  date: 1
+  actualMonth: 1
+  yy: 2023
+  daysPassed: 396
+  dayOfWeek: 3
+  maxMonthDays: 28
+  initial_mm: 0
+  initial_hh: 8
+  initial_date: 4
+  initial_actualMonth: 8
+  initial_yy: 2022

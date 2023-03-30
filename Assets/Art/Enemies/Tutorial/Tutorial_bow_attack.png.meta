@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 99223b7c311f2474eb5e010e93fe0481
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d1e8f94aea6ed4fa0a92293e9bcac4
+      internalID: -806181277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71b473e3b8d05042a3cc53d0fa62362
+      internalID: 1936068077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53309d58bb065bb4f85beae3134908f1
+      internalID: 1070736536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55acb605359ac0742b921e905f6d5652
+      internalID: 1145400573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa670772224882409ebd56b5ffafb1a
+      internalID: 290721636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 30
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5435801, y: 0.4699444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c5dbf364a1bf469a7e213be045adf
+      internalID: 1217791093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 31
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5421743, y: 0.4704538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f2cfe3e21e87742b29c65577c0043f
+      internalID: -1993227488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 256
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5272379, y: 0.46368307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8d6838827a5cd40913f227afbbbc6a
+      internalID: -879129964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4867942, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8215b5ace79bd3045aa21d0309c7a8e0
+      internalID: -2114378865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4918785, y: 0.46968332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedf48a927c7e214bb10666f756aae93
+      internalID: -376827591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47401428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95802b9e585dc054e870840c10895f4e
+      internalID: 1844591543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4918785, y: 0.46968332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe45604f5df2d044abcf7c7e52b484da
+      internalID: 1494814545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49188042, y: 0.47401428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be86952e5e76f744ae0e2e5210ebd77
+      internalID: 143894607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02099cfb16c77434aba1d0a4925c2763
+      internalID: -1498595294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4506875, y: 0.512164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd767cbbe3a62ae478efbde7fc832b43
+      internalID: 724434041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5120044, y: 0.51694155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c1e99f8e0388747910cd762e2464cd
+      internalID: 1753085897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb94e5fb701c3f40ae9a3f4f5b64ed7
+      internalID: -622520068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 43
+        height: 52
+      alignment: 9
+      pivot: {x: 0.52472776, y: 0.50484496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75f5ccf48a62a4f8878ae07dd1725c
+      internalID: 898826336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 45
+        height: 55
+      alignment: 9
+      pivot: {x: 0.59971786, y: 0.4845986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b2ef3d8ab3504479ad37b5546f6516
+      internalID: -931335953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 192
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5759881, y: 0.48103198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6909a108e51e16a44919bd7083f62122
+      internalID: 1602968188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 192
+        width: 45
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5292284, y: 0.48820552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fc0a87703d3e1459f9d9043c0a77e9
+      internalID: 355447588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 192
+        width: 44
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48525724, y: 0.5211992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413818a44f4d93d47a1f124fc7714272
+      internalID: 891476567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_22
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 35
+        height: 53
+      alignment: 9
+      pivot: {x: 0.41918072, y: 0.49217743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04cea87b42067428d7f3db38f1f4cf
+      internalID: 1900116180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_23
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 34
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4276141, y: 0.49524415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d4097d98f0b5448348ccb13dd4997
+      internalID: 2095505165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 34
+        height: 53
+      alignment: 9
+      pivot: {x: 0.41011137, y: 0.51122814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b9e0b6d14ffea498f72bef5d23d073
+      internalID: -327937073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_25
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 192
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5037427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871964e872aa2b44967cfbb5e268461
+      internalID: 1004254218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 128
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44124907, y: 0.47917023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9da3dfc426f21245a354875428bcfa4
+      internalID: 742206070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5225189, y: 0.48750213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f7a41c7e05834b971b4a0312b4495
+      internalID: 133015374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 128
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5173581, y: 0.48750213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be540a727da474249a600ebf825bfc65
+      internalID: -2093101419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46528372, y: 0.50416595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300a3528a430d8041ae1afad1e0731f6
+      internalID: -441396503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44253856, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae62c7f44b518434e92f7c10b9a8ef96
+      internalID: 1252138843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44728246, y: 0.51528776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa2fbeac3d81d47b1aae050acc281b
+      internalID: -560956172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44728246, y: 0.5191095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd09e307c53698944a7f4f408eae1e58
+      internalID: -1469181460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_33
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45387214, y: 0.52675325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb76c212531c8547b839369272d1fe7
+      internalID: 1349146177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_34
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.43410307, y: 0.51528746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6f61db4643c748b105f6beabee379
+      internalID: 674144530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46046185, y: 0.5229315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f49dc650648cd4bb65d73572c5eb7b
+      internalID: 449502191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_36
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45591998, y: 0.5255661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a9ae93e0d524438f39780b37214e0
+      internalID: -605109783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_37
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.42947283, y: 0.52045286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d0e1bcab0f001469f07c51b421bfe0
+      internalID: 1259229665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_38
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44710568, y: 0.5153397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a608653c937317446b715e126071bb7a
+      internalID: -1463653869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d87bf667707140a1ab1aaa5e9e75a
+      internalID: 147564351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630477befa1cd3543bb8e500e72266b8
+      internalID: -1116973464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.43412703, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe34a8afa5f7b4ba767b2ca4e82883
+      internalID: -1541798255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.43412703, y: 0.5102762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8e89a3d63f257408753f626a657fc0
+      internalID: -965831212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 43
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4163563, y: 0.5049406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9aa6e5b380e584890fc2c8160f6301
+      internalID: 1507076010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 64
+        width: 45
+        height: 55
+      alignment: 9
+      pivot: {x: 0.32872993, y: 0.4673032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b93b80625658540be6ce140b2d49ea
+      internalID: 303791678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 64
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.349208, y: 0.4459147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0103708dd510d7a48a00ee3d49821c3d
+      internalID: -712987623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 45
+        height: 55
+      alignment: 9
+      pivot: {x: 0.42007378, y: 0.4719742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92defd1c1c78204e91217c74de75871
+      internalID: -784712446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 44
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4299358, y: 0.5050375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056bb02dc54c2c45861c5cc38711523
+      internalID: 434373817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_48
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 35
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49030548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1288f102ff754bbbfa35b1992825a
+      internalID: -1281541243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4848884, y: 0.48545823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e5c17db09b0ed41b76056aa3ee9418
+      internalID: -1397990453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_50
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d46623f561a94a881a2a4d9aaddb9
+      internalID: -752329653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_51
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6d0fc4abcf414ebf2715c9f836763
+      internalID: 1024805828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44912204, y: 0.2188991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df8aebb1587e944a7b6d3621093d1e
+      internalID: 25561331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 36
+        height: 49
+      alignment: 9
+      pivot: {x: 0.48198086, y: 0.25729105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fe9737426fc8144a5a69bea83e8e30
+      internalID: -1027090353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5120129, y: 0.273472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b060d22ede2d875488678d794d5f531d
+      internalID: 439042462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.22686547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f5dbbf8aa4f84a83170987a68cfd4
+      internalID: 317876652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4532479, y: 0.31980708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa2932d5cb33be40b5d4a0f8ae040c5
+      internalID: -2142850137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_bow_attack_57
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.43346778, y: 0.28376877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0596e0c48780a3844b241fd3bf87baa1
+      internalID: 1130914359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tutorial_bow_attack_24: -327937073
+      Tutorial_bow_attack_35: 449502191
+      Tutorial_bow_attack_29: -441396503
+      Tutorial_bow_attack_20: 355447588
+      Tutorial_bow_attack_6: -1993227488
+      Tutorial_bow_attack_55: 317876652
+      Tutorial_bow_attack_54: 439042462
+      Tutorial_bow_attack_25: 1004254218
+      Tutorial_bow_attack_27: 133015374
+      Tutorial_bow_attack_42: -965831212
+      Tutorial_bow_attack_22: 1900116180
+      Tutorial_bow_attack_16: -622520068
+      Tutorial_bow_attack_57: 1130914359
+      Tutorial_bow_attack_1: 1936068077
+      Tutorial_bow_attack_10: 1844591543
+      Tutorial_bow_attack_47: 434373817
+      Tutorial_bow_attack_36: -605109783
+      Tutorial_bow_attack_51: 1024805828
+      Tutorial_bow_attack_12: 143894607
+      Tutorial_bow_attack_39: 147564351
+      Tutorial_bow_attack_38: -1463653869
+      Tutorial_bow_attack_48: -1281541243
+      Tutorial_bow_attack_45: -712987623
+      Tutorial_bow_attack_34: 674144530
+      Tutorial_bow_attack_32: -1469181460
+      Tutorial_bow_attack_17: 898826336
+      Tutorial_bow_attack_13: -1498595294
+      Tutorial_bow_attack_40: -1116973464
+      Tutorial_bow_attack_11: 1494814545
+      Tutorial_bow_attack_46: -784712446
+      Tutorial_bow_attack_30: 1252138843
+      Tutorial_bow_attack_26: 742206070
+      Tutorial_bow_attack_56: -2142850137
+      Tutorial_bow_attack_23: 2095505165
+      Tutorial_bow_attack_7: -879129964
+      Tutorial_bow_attack_33: 1349146177
+      Tutorial_bow_attack_44: 303791678
+      Tutorial_bow_attack_5: 1217791093
+      Tutorial_bow_attack_15: 1753085897
+      Tutorial_bow_attack_31: -560956172
+      Tutorial_bow_attack_49: -1397990453
+      Tutorial_bow_attack_8: -2114378865
+      Tutorial_bow_attack_41: -1541798255
+      Tutorial_bow_attack_0: -806181277
+      Tutorial_bow_attack_53: -1027090353
+      Tutorial_bow_attack_14: 724434041
+      Tutorial_bow_attack_3: 1145400573
+      Tutorial_bow_attack_50: -752329653
+      Tutorial_bow_attack_21: 891476567
+      Tutorial_bow_attack_4: 290721636
+      Tutorial_bow_attack_37: 1259229665
+      Tutorial_bow_attack_19: 1602968188
+      Tutorial_bow_attack_43: 1507076010
+      Tutorial_bow_attack_2: 1070736536
+      Tutorial_bow_attack_52: 25561331
+      Tutorial_bow_attack_9: -376827591
+      Tutorial_bow_attack_18: -931335953
+      Tutorial_bow_attack_28: -2093101419
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
